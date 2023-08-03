@@ -10,7 +10,7 @@
             <a href="javascript:void(0);">
                 <!-- <img class="img-fluid" src="{{ url('images/logo.png') }}" alt="inventory logo">  -->
             </a>
-            <small> Miniaplicación de Gestión de Tareas</small>
+            <small id="MyTitle" class="btn btn-block bg-pink waves-effect"> Miniaplicación de Gestión de Tareas</small>
         </div>
         <div class="card">
             <div class="body">
