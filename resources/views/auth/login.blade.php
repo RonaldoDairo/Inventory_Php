@@ -7,8 +7,10 @@
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <a href="javascript:void(0);"><img class="img-fluid" src="{{ url('images/logo.png') }}" alt="inventory logo"> </a>
-            <!-- <small>A Inventory Softwaare</small> -->
+            <a href="javascript:void(0);">
+                <!-- <img class="img-fluid" src="{{ url('images/logo.png') }}" alt="inventory logo">  -->
+            </a>
+            <small> Miniaplicación de Gestión de Tareas</small>
         </div>
         <div class="card">
             <div class="body">
@@ -54,9 +56,11 @@
                         <div class="col-xs-6">
                             <!-- <a href="sign-up.html">Register Now!</a> -->
                         </div>
-                        <!--<div class="col-xs-6 align-right">
+                        <!-- <div class="col-xs-6 align-right">
                             <a href="href="{{ route('password.request') }}"">¿Olvidaste tu contraseña?</a>
-                        </div>-->
+                        </div> -->
+                        
+                        
                     </div>
                 </form>
             </div>
@@ -65,5 +69,10 @@
 
 
 @include('include.footer')
+
+
 </body>
 </html>
+
+
+
