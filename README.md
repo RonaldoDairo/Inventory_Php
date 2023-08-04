@@ -4,7 +4,7 @@
 ![Alt text](image-1.png)
 <!-- Basicamente es sencillo de entender , es un invertario a su ves esta gestionando tarea -->
 
-
+<!-- http://inventory.test/login -->
 <!-- Para logearte dairo@gmail.com clave= 1234
     ya una vez detro puedes crear el usuario que quiero y depende del usuario tendras algunos permisos, recordar que con esta version de laravel fue con la que trabaje
     php-7.4.33-Win32-vc15-x64.zip)
